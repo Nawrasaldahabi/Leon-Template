@@ -198,7 +198,7 @@ header .container .nav ul::before {
 /* End Header Section */
 /* Start Landing Section */
 .landing {
-    background-image: url(../Images/landing.jpg);
+    background-image: url(../images/landing.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: calc(100vh - 64px);
